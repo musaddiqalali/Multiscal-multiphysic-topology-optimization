@@ -1,5 +1,5 @@
 # Multiscal-multiphysic-topology-optimization
-this Matlab Code is aiming toward introducing the methodology of concurrent multiscale topology
+This Matlab Code is aiming toward introducing the methodology of concurrent multiscale topology
 optimization attaining designs of lightweight, high heat conductive, and stiff porous structures utilizing multiobjective optimization method. The normalized multi-objective function is used in this research to maximize heat
 conductivity and stiffness. Therefore, the objective criteria are consisting of heat and mechanical compliance.
 
